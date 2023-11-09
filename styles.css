@@ -1,10 +1,11 @@
+@import url("styles/header.css");
+
 :root {
     --cor-de-fundo: #EBECEE;
+    --branco: #ffffff
 }
 
 body{
     background: var(--cor-de-fundo);
 
 }
-
-/* Aula 01 - finalizada */
